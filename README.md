@@ -7,7 +7,7 @@ Este proyecto implementa un algoritmo de cómputo paralelo utilizando el modelo 
 
 ## Metodología
 
-* Generación de una nube de puntos (1M,8M2,27M,64M,125M)
+* Generación de una nube de puntos (1M,8M,27M,64M,125M)
 * Definición de matrices de rotación en X, Y, Z
 * Distribución de datos mediante modelo master-worker
 * Procesamiento paralelo usando `spmd`, `spmdSend` y `spmdReceive`
